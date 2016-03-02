@@ -42,7 +42,7 @@ gem 'spring',        group: :development
 gem 'leapmotion', '~> 0.0.4'
 
 gem 'rails_12factor', group: :production
-#gem 'puma'
+gem 'puma'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
